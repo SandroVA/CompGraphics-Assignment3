@@ -1,0 +1,1 @@
+This is the third of three OpenGL programming assignments. The goal of this assignment was to use everything we've learnt in the class to create a program that could place objects on the map. This was suppose to be a four person project but ended up being done by only two people due to the other teammembers dropping the class. 
